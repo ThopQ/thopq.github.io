@@ -12,6 +12,55 @@ export default {
           { text: "About", link: "/about" },
         ],
       },
+      {
+        text: "Guide",
+        items: [
+          { text: "WTF", link: "/" },
+          { text: "About", link: "/about" },
+        ],
+      },
+      {
+        text: "Guide",
+        items: [
+          { text: "WTF", link: "/" },
+          { text: "About", link: "/about" },
+        ],
+      },
+      {
+        text: "Guide",
+        items: [
+          { text: "WTF", link: "/" },
+          { text: "About", link: "/about" },
+        ],
+      },
+      {
+        text: "Guide",
+        items: [
+          { text: "WTF", link: "/" },
+          { text: "About", link: "/about" },
+        ],
+      },
+      {
+        text: "Guide",
+        items: [
+          { text: "WTF", link: "/" },
+          { text: "About", link: "/about" },
+        ],
+      },
+      {
+        text: "Guide",
+        items: [
+          { text: "WTF", link: "/" },
+          { text: "About", link: "/about" },
+        ],
+      },
+      {
+        text: "Guide",
+        items: [
+          { text: "WTF", link: "/" },
+          { text: "About", link: "/about" },
+        ],
+      },
     ],
   },
 };
