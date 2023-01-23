@@ -1,2 +1,5 @@
 # thopq.github.io
-For personal documentation purpose
+
+## Why?
+
+For personal documentation purpose...
