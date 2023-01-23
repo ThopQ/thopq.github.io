@@ -9,7 +9,7 @@ export default {
         text: "Guide",
         items: [
           { text: "WTF", link: "/" },
-          { text: "Getting Started", link: "/about" },
+          { text: "About", link: "/about" },
         ],
       },
     ],
