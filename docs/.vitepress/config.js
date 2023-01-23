@@ -8,7 +8,7 @@ export default {
       {
         text: "Guide",
         items: [
-          { text: "Introduction", link: "/" },
+          { text: "WTF", link: "/" },
           { text: "Getting Started", link: "/about" },
         ],
       },
