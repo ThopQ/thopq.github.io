@@ -6,56 +6,7 @@ export default {
     nav: [{ text: "GitHub", link: "https://github.com/ThopQ/thopq.github.io" }],
     sidebar: [
       {
-        text: "Guide",
-        items: [
-          { text: "WTF", link: "/" },
-          { text: "About", link: "/about" },
-        ],
-      },
-      {
-        text: "Guide",
-        items: [
-          { text: "WTF", link: "/" },
-          { text: "About", link: "/about" },
-        ],
-      },
-      {
-        text: "Guide",
-        items: [
-          { text: "WTF", link: "/" },
-          { text: "About", link: "/about" },
-        ],
-      },
-      {
-        text: "Guide",
-        items: [
-          { text: "WTF", link: "/" },
-          { text: "About", link: "/about" },
-        ],
-      },
-      {
-        text: "Guide",
-        items: [
-          { text: "WTF", link: "/" },
-          { text: "About", link: "/about" },
-        ],
-      },
-      {
-        text: "Guide",
-        items: [
-          { text: "WTF", link: "/" },
-          { text: "About", link: "/about" },
-        ],
-      },
-      {
-        text: "Guide",
-        items: [
-          { text: "WTF", link: "/" },
-          { text: "About", link: "/about" },
-        ],
-      },
-      {
-        text: "Guide",
+        text: "General",
         items: [
           { text: "WTF", link: "/" },
           { text: "About", link: "/about" },
