@@ -9,6 +9,10 @@ export default {
         text: "General",
         items: [{ text: "About", link: "/about" }],
       },
+      {
+        text: "GitHub",
+        items: [{ text: "Clone Repository", link: "/clone-repository" }],
+      },
     ],
   },
 };
