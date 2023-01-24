@@ -2,13 +2,13 @@
 layout: home
 
 hero:
-  name: KnowledgeBase
-  text: All the stuff you'll never need!
-  tagline: For personal documentation purpose...
+  name: Hello Josephine
+  text: Just wanted you to see that...
+  tagline: You are the most beautiful girl in the world ❤️
 
   actions:
     - theme: brand
-      text: Anleitung
+      text: Get Started
       link: /about
     - theme: alt
       text: GitHub
