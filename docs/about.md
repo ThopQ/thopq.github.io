@@ -11,12 +11,12 @@ import {
 
 const members = [
   {
-    avatar: 'https://www.github.com/yyx990803.png',
-    name: 'Evan You',
-    title: 'Creator',
+    avatar: 'https://www.github.com/ThopQ.png',
+    name: 'Thomas Iseli',
+    title: 'Full Stack Developer',
     links: [
-      { icon: 'github', link: 'https://github.com/yyx990803' },
-      { icon: 'twitter', link: 'https://twitter.com/youyuxi' }
+      { icon: 'github', link: 'https://github.com/ThopQ' },
+      { icon: 'twitter', link: 'https://twitter.com/ThopQ' }
     ]
   },
 ]
@@ -25,11 +25,10 @@ const members = [
 <VPTeamPage>
   <VPTeamPageTitle>
     <template #title>
-      Our Team
+        Meet the Developer
     </template>
     <template #lead>
-      The development of VitePress is guided by an international
-      team, some of whom have chosen to be featured below.
+        This is a short overview about my work!
     </template>
   </VPTeamPageTitle>
   <VPTeamMembers
