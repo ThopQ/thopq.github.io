@@ -7,10 +7,7 @@ export default {
     sidebar: [
       {
         text: "General",
-        items: [
-          { text: "WTF", link: "/" },
-          { text: "About", link: "/about" },
-        ],
+        items: [{ text: "About", link: "/about" }],
       },
     ],
   },
