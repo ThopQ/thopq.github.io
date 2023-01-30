@@ -11,7 +11,17 @@ export default {
       },
       {
         text: "GitHub",
-        items: [{ text: "Clone Repository", link: "/clone-repository" }],
+        items: [
+          {
+            text: "Level 2",
+            items: [
+              {
+                text: "Level 3",
+                items: [{ text: "About", link: "/about" }],
+              },
+            ],
+          },
+        ],
       },
     ],
   },
